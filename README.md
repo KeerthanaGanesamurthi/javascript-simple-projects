@@ -4,5 +4,3 @@
 # project 1
 Title:Add the two user inputs and produce the result using Javascript.
 
-# project 2
- Title:Guess the number game using java script 
